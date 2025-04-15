@@ -1,0 +1,4 @@
+sources:
+  - name: dbo  
+    tables:
+      - name: DimCustomer  
