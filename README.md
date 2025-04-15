@@ -2,14 +2,6 @@
 
 This project demonstrates how to connect to a SQL Server Data Warehouse using dbt (Data Build Tool). It includes a virtual environment (VE) setup, data extraction, and three example models. Tests are also provided to validate the models' functionality and data accuracy.
 
-## Table of Contents
-
-- [About the Project](#about-the-project)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Models](#models)
-- [Tests](#tests)
-
 ## Setup
 
 ### Prerequisites
